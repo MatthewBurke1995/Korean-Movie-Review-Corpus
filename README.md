@@ -21,5 +21,7 @@ genre_title_korean_review_corpus.zip
 The csv files are in the format:
 
 `4, 갈수록 떨어지는 거 같다. 명성에 걸맞지 않은 속내.`
+
 `9, 본드 연기 최고`
+
 `3, 역대 최악의 스토리에 최악의 액션씬 007 팬으로서 너무 아쉬움`
