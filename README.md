@@ -18,3 +18,5 @@ genre_title_korean_review_corpus.zip
 └───.
 
 ```
+The csv files are in the format:
+`4, 갈수록 떨어지는 거 같다. 명성에 걸맞지 않은 속내.`
