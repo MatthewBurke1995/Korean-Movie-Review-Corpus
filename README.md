@@ -7,33 +7,14 @@ The zip file contains the reviews split up into a folder for each genre and a se
 
 
 ```
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+genre_title_korean_review_corpus.zip
+└───액션
+│   │   퀵 (2011).csv
+│   │   친구2 (2013).csv
+│   │   .
+└───드라마
+    │   길 (2004).csv
+    │   시 (2010).csv
+└───.
+
 ```
-
-
-.
-+-- 액션
-|   +-- 퀵 (2011).csv
-|   +-- 친구2 (2013).csv
-|   +-- ...
-+-- 드라마
-|   +-- 길 (2004).csv
-|   +-- 시 (2010).csv
-|   +-- ...
-
-+-- ...
