@@ -25,3 +25,6 @@ The csv files are in the format:
 `9, 본드 연기 최고`
 
 `3, 역대 최악의 스토리에 최악의 액션씬 007 팬으로서 너무 아쉬움`
+
+
+You can see a full write up of the methods in [this blog post](https://matthewburke1995.github.io/programming/data/2017/11/02/selenium-review-corpus.html). 
